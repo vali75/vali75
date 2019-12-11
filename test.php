@@ -1,3 +1,3 @@
 <?php
- echo( 'Assioma di Dianetics' );
+ echo( 'io questo non ho capito' );
 ?>

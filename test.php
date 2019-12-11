@@ -1,3 +1,3 @@
 <?php
- echo( 'dentro allo stomaco la liberta' );
+ echo( 'Assioma di Dianetics' );
 ?>

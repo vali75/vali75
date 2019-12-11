@@ -1,3 +1,3 @@
 <?php
- echo( 'ma che schifo di fratello' );
+ echo( 'e trova il fesso alloccorrenza' );
 ?>

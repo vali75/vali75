@@ -1,3 +1,3 @@
 <?php
- echo( 'Indio buddista ebreo mussulmano, radio baccano mondo cristiano' );
+ echo( 'Mio fratello fuma a scrock' );
 ?>
